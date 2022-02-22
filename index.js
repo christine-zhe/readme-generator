@@ -53,6 +53,12 @@ const questions = () => {
     },
     {
       type: 'input',
+      name: 'username',
+      message: 'Please enter your Github username.',
+
+    },
+    {
+      type: 'input',
       name: 'github',
       message: 'Please enter your Github link.',
 
@@ -62,6 +68,12 @@ const questions = () => {
       name: 'Email',
       message: 'Please enter email.',
 
+    },
+    {
+      type: 'list',
+      name: 'licenses',
+      message: 'What did you this project with? (Check all that apply)',
+      choices: ['Apache', 'Boost', 'BSD 3-Clause']
     },
     {
       type: 'input',
