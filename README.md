@@ -1,4 +1,7 @@
-# Professional README Generator Starter Code
+
+# Professional README Generator
+
+Below is a guide on how to create a professional README
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
@@ -22,10 +25,29 @@ THEN I am taken to the corresponding section of the README
 ```
 # Example Information to be inputted
 Title: Read Me Generator
+
 Description: This is a read me generator. By entering information into the terminal, the read me generator will automatically generated afterwards. 
+
 Installation: This needs to be installed with node.js and the user needs to install it before using the read me generator.  The .gitignore contains files that have been hidden and the readme generator will not work without first installing th enode packages.
+
 Usage: This will be to help with generating a readme quickly iin order to obtain a readme in the github. 
+
 Contribution: In order to contribute to the github, please make sure to git clone the project first and follow industry standards.
+
 Tests: There will be tests that could be used to ensure that this application is running properly.
+
 Questions: christinez@ucla.edu
+
 GitHub: christine-zhe
+
+# Deliverables
+Please view output folder -> README.md for the fianl product
+
+## Github repository
+https://github.com/christine-zhe/readme-generator
+
+# Video Link
+Below is a video walk through of my file being generated.
+
+https://drive.google.com/file/d/1ZLFTZOaj3jkCV9_AbeCZGWEEpYaxqv-h/view
+
